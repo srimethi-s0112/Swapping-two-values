@@ -18,9 +18,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+```
+a=eval(input())
+b=input()
+print(a,b)
+```
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
